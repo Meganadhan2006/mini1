@@ -1,0 +1,83 @@
+
+#ff
+{
+	font-size:20px;
+	margin-top:90px;
+	background-color:gray;
+}
+
+.text
+{
+	font-style:italic;
+	font-size:35px;
+	
+	width:500px;
+	height:400px;
+	float:left;
+	margin-left:100px;
+	
+}
+#img
+{
+	
+	
+	float:right;
+	width:50%;
+	height:400px;
+	margin-right:50px;
+	
+}
+
+
+.dd
+{
+	font-size:25px;
+	margin-left:150px;
+	font-weight:italic;
+}
+#box
+{
+
+	height:520px;
+	background-color:#fff9e6;
+}
+#ss
+{
+	background-color:black;
+	color:white;
+	font-size:30px;
+}
+#sc
+{
+	font-size:40px;
+}
+#dd
+{
+	font-weight:roman;
+	font-size:25px;
+}
+.me
+{
+	font-size:25px;
+	margin-left:100px;
+	text-align:center;
+}
+#total
+{
+	width:100%;
+	position:relative;
+	top:40px;
+	height:612px;
+	border:1px solid black;
+	
+}
+#book
+{
+	margin-top:20px;
+	margin-left:-20px;
+	margin-bottom:40px;
+}
+fieldset
+{
+	background-color:lightgray;
+}
